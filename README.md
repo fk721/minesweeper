@@ -2,6 +2,6 @@
 ## To play:
 Enter in command line:
 
-minesweeper.cpp -o game.exe
+minesweeper.cpp -o minesweeper.exe
 
-./game.exe
+minesweeper.exe
