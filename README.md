@@ -1,2 +1,5 @@
-# minesweeper
-:video_game: popular 1960s puzzle game recreated through C++
+# Minesweeper
+## To play:
+Enter in command line:
+minesweeper.cpp -o game.exe
+./game.exe
